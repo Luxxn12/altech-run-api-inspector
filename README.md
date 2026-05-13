@@ -1,6 +1,13 @@
 <p align="center">
-  <img src="docs/images/logo-altech.png" alt="Altech Logo" width="420" />
+  <img src="https://raw.githubusercontent.com/Luxxn12/altech-run-api-inspector/main/docs/images/logo-altech.png" alt="Altech Logo" width="420" />
 </p>
+
+## Dashboard preview
+
+This is the current browser dashboard UI:
+
+![Altech API Dashboard Preview](https://raw.githubusercontent.com/Luxxn12/altech-run-api-inspector/main/docs/images/dashboard-preview.png)
+
 
 # altech-run-api-inspector
 
@@ -36,13 +43,6 @@ This package gives one focused workflow for API inspection with minimal setup an
   - retry request
   - copy JSON
   - open URL in browser (absolute URL only)
-
-
-## Dashboard preview
-
-This is the current browser dashboard UI:
-
-![Altech API Dashboard Preview](docs/images/dashboard-preview.png)
 
 ## What you can inspect
 
