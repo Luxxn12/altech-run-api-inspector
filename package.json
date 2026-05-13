@@ -1,6 +1,6 @@
 {
   "name": "altech-run-api-inspector",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Mini API/network inspector overlay for React Native apps (fetch + axios) during development.",
   "author": "Altech",
   "license": "MIT",
