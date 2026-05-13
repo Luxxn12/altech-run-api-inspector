@@ -2,18 +2,19 @@
   <img src="https://raw.githubusercontent.com/Luxxn12/altech-run-api-inspector/main/docs/images/logo-altech.png" alt="Altech Logo" width="420" />
 </p>
 
+
+
+# altech-run-api-inspector
+
+`altech-run-api-inspector` is a `React Native` debugging package to inspect API traffic directly from your app runtime.
+
+It helps teams debug `fetch` and `axios` requests without depending on Flipper, Reactotron, or extra native plugins.
+
 ## Dashboard preview
 
 This is the current browser dashboard UI:
 
 ![Altech API Dashboard Preview](https://raw.githubusercontent.com/Luxxn12/altech-run-api-inspector/main/docs/images/dashboard-preview.png)
-
-
-# altech-run-api-inspector
-
-`altech-run-api-inspector` is a React Native debugging package to inspect API traffic directly from your app runtime.
-
-It helps teams debug `fetch` and `axios` requests without depending on Flipper, Reactotron, or extra native plugins.
 
 ## Why use this package
 
